@@ -16,19 +16,23 @@
       </div>
 
       <div class="btn-grid">
-        <button class="btn btn-add" onclick="calculate('add')">Add (+)</button>
-        <button class="btn btn-sub" onclick="calculate('sub')">
+        <button type="button" class="btn btn-add" onclick="calculate('add')">
+          Add (+)
+        </button>
+        <button type="button" class="btn btn-sub" onclick="calculate('sub')">
           Subtract (-)
         </button>
-        <button class="btn btn-mul" onclick="calculate('mul')">
+        <button type="button" class="btn btn-mul" onclick="calculate('mul')">
           Multiply (×)
         </button>
-        <button class="btn btn-div" onclick="calculate('div')">
+        <button type="button" class="btn btn-div" onclick="calculate('div')">
           Divide (÷)
         </button>
       </div>
 
-      <button class="btn-clear" onclick="clearFields()">Clear All</button>
+      <button type="button" class="btn-clear" onclick="clearFields()">
+        Clear All
+      </button>
 
       <div id="result-display">Result: <span id="result-value">0</span></div>
     </div>
