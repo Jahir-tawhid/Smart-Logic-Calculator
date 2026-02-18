@@ -23,3 +23,9 @@ A simple yet powerful web-based calculator built with HTML, CSS, and Vanilla Jav
 ├── index.html   # Main structure of the app
 ├── style.css    # Design and layout styles
 └── script.js    # Logic and calculation functions
+```
+Live Link:  https://jahir-tawhid.github.io/Smart-Logic-Calculator/
+
+Linkedin: www.linkedin.com/in/jahirtawhid
+
+Email: jahirtawhid1988@gmail.com
